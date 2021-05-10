@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>192.jpeg</filename>
+	<path>C:\Object_detection\models-master\research\object_detection\images\192.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>76</ymin>
+			<xmax>138</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>
